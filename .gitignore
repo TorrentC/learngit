@@ -1,0 +1,31 @@
+# Built application files
+.classpath
+.project
+eclipse/
+.settings/
+conf/appconfig
+conf/country.xml
+
+# Java class files
+*.class
+*.iml
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+tmp/
+lib/
+.idea/
+/zookeeper/
+zookeeper/country.xml
+out/
+kikuu.ipr
+kikuu.iml
+boot.py
+kikuu.iws
+/test
+/modules
+/conf/application.conf
+/.ideaDataSources/
